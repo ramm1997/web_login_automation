@@ -1,5 +1,5 @@
 @Library("ramesh@master") _
 
-pushEcrRepo(
+pushDockerHub(
 ecrRepoName: 'webloginjmsapp'
 )
