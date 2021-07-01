@@ -1,5 +1,5 @@
-@Library("jmsdevops@main") _
+@Library("ramesh@master") _
 
 pushEcrRepo(
-ecrRepoName: 'web_login_automation'
+ecrRepoName: 'webloginjmsapp'
 )
